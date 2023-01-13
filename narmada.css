@@ -1,0 +1,187 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+
+
+img{ max-width:100%;
+     height:auto;
+	}
+/*------------------------------------------------------------------------*/
+
+
+.amma-sec{ border:2px solid black;
+height:93px;
+width:98%;
+background: ##2a8ea5;
+background: ##2a8ea5;
+background: #05acc8;
+	}
+	
+	
+.ssk{ 
+	border: 2px solid black;
+	height: 90px;
+	background: ##2a8ea5;
+	background: #09aabb;
+	}
+			
+	
+.ks{
+	}	
+	
+.amma{
+	
+	}
+	
+.amma h1{border: 3px solid black;
+	width: 63%;
+	height: 37px;
+	margin-left: 45px;
+border-radius: 51%;
+/*! color: red; */
+background: red;
+	}
+	
+.dad{
+	}	
+	
+.dad nav{
+	}
+	
+.dad nav a{
+	border: 4px solid black;
+	/*! width: 20%; */
+	/*! height: 20px; */
+	float: left;
+	margin-top: 21px;
+	width: 151px;
+	height: 35px;
+	margin-left: 50px;
+	border-radius: 1px;
+	background: pink;
+	}				
+	
+/*---------------------------------------------------------*/
+
+.bnr-sec{ border:2px solid black;
+          height:212px;
+width: 98%;
+background: brown;
+	}
+	
+.bnr{
+	
+	border: 2px solid black;
+	height: 212px;
+	background: brown;
+	}
+.rs{
+	}
+	
+.sai{
+	}
+	
+.sai h1{
+	
+	border: 3px solid black;
+	width: 21%;
+	height: 164px;
+	margin-left: 29px;
+	background: yellow;
+	}		
+
+/*----------------------------------------------------------------*/
+
+
+.siva-sec{  border:3px solid black;
+            height:366px;
+            width: 98%;
+            background: #2a8ea5;
+	}
+	
+	
+.rav{
+	border: 2px solid black;
+	height: 360px;
+	background: #2a8ea5;
+	\}: ;
+	}
+	
+.mi{
+	}
+	
+.devi{
+	}
+	
+.devi h1{
+	border: 4px solid black;
+	width: 23%;
+	height: 35px;
+	border-radius: 31%;
+	
+	margin-left: 463px;
+	background: #ce7b9e;
+	}
+	
+	
+.sindu{
+	}
+	
+	
+.sindu nav{
+	
+	}
+
+
+.sindu nav a{
+	border: 4px solid black;
+	margin-left: 139px;
+	width: 18%;
+	height: 202px;
+	display: inline-block;
+	margin-top: 49px;
+	border-radius: 14%;
+	background: #eb87d7;
+	
+	}	
+	
+/*--------------------------------------------------------------------*/
+
+
+.footer-sec{ border:3px solid black;
+            height:200px;
+            width: 98%;
+            background: #ece917;
+	
+	}
+	
+.sitha{
+	border: 2px solid black;
+	height: 198px;
+	/*! background: ##ece917; */
+	background: yellow;
+	}
+	
+.gayathri{
+	
+	}
+	
+.ftr{
+	}
+	
+.ftr ul{
+	}
+	
+.ftr ul li{
+	border: 1px solid black;
+	width: 50%;
+	height: 9px;
+	margin-top: 33px;
+	list-style: none;
+	margin-left: 95px;
+	border-radius: 7px;
+	}																

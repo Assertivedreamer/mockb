@@ -1,0 +1,273 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+img {
+ max-width:;
+	height: auto;
+}
+/*-------------------------------------------------------------*/	
+
+.head-sec {
+	height: 110px;
+	background: #FFF;
+}
+.kssk {
+}
+.kssk img {
+	margin-top: 8px;
+}
+.nvc {
+}
+.nvc ul {
+	margin-top: 35px;
+}
+.nvc ul li {
+}
+.nvc ul li a {
+	margin-left: 17px;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-family: roboto regular;
+	font-weight: 400;
+	color: #453592;
+}
+.nvc button {
+	margin-top: 39px;
+	padding: 9px 25px;
+	font-size: 14px;
+	font-family: roboto regular;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #fff;
+	background: #e26c00;
+	border: none;
+	border-radius: 9px;
+}
+/*-------------------------------------------------------------*/
+
+.bnr-sec {
+	height: 508px;
+	background: url(images/ksskpsd_06.png) no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.rohit {
+}
+.rohit h1 {
+	font-size: 24px;
+	font-family: roboto regular;
+	font-weight: 400;
+	text-transform: uppercase;
+	margin-top: 252px;
+	color: #fff;
+	background: black;
+	width: 47%;
+	padding: 7px 2px;
+	opacity: 0.6;
+}
+/*----------------------------------------------------------------------*/
+
+
+
+.wel-sec {
+	height: 236px;
+	background: white;
+}
+.wl {
+}
+.wl h1 {
+	float: right;
+	font-size: 32px;
+	font-family: roboto regular;
+	text-transform: uppercase;
+	font-weight: 400;
+	color: #4c3696;
+}
+.wlicn {
+}
+.wlicn nav {
+	float: right;
+	margin-top: 24px;/*! margin-left: 8px; */
+}
+.wlicn nav a {
+	margin-left: 4px;
+}
+.wlicn nav a img {
+}
+.wlpra {
+}
+.wlpra p {
+	font-size: 18px;
+	text-align: center;
+	font-style: italic;
+	font-family: timesnewrom;
+	font-weight: 400;
+	padding: 0px 65px;
+	margin-left: 93px;
+}
+/*------------------------------------------------------------------*/
+
+.gallary-sec {
+	height: 382px;
+	background: url(images/ftrpsd_02.png) no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.gallery {
+}
+.gal {
+	background: #f4f3f6;
+	width: 80%;
+	margin-left: 48px;
+	margin-top: 62px;
+	color: #2b2b2b;
+}
+.gal img {
+	width: 100%;
+}
+.gal h2 {
+	font-size: 24px;
+	font-family: roboto regular;
+	font-weight: 400;
+	text-transform: uppercase;
+	padding: 14px 0px;
+	margin-top: 0px;
+	text-align: center;
+}
+/*-----------------------------------------------------------------------*/
+
+
+.test-sec{ height:295px;
+           background:#dd9349;
+	}
+	
+.test{
+	}
+	
+.test h2{
+	font-size: 32px;
+	font-family: roberto regular;
+	font-weight: 400;
+	text-transform: uppercase;
+	text-align: center;
+	color: #fbf2ec;
+	margin-top: 40px;
+	}
+	
+.test p{
+	text-align: center;
+	font-size: 20px;
+	font-family: timesnewromi;
+	font-weight: 400;
+	font-style: italic;
+	padding: 0px 91px;
+	color: #ffffff;
+	margin-top: 27px;
+	}
+	
+.test h5{
+	font-size: 26px;
+	font-family: timesnewromi;
+	font-weight: 400;
+	text-align: center;
+	font-style: italic;
+	color: #fbf2ec;
+	}
+	
+.test h6{
+	font-size: 20px;
+	font-family: timesnewromi;
+	font-weight: 400;
+	font-style: italic;
+	text-align: center;
+	color: #fbf2ec;
+	}					
+	
+/*------------------------------------------------------------*/
+
+.footer-sec{ height:240px;
+             background:#404144;
+	}
+	
+.ftr{
+	}
+	
+.ftr h3{
+	font-size: 24px;
+	font-family: roboto regular;
+	font-weight: 400;
+	color: #fff;
+	margin-left: 32px;
+	}
+	
+.ftr ul{
+	}
+	
+.ftr ul li{
+	list-style: none;
+	font-size: 14px;
+	font-family: roboto regular;
+	font-weight: 400;
+	color: #abacad;
+	margin-left: 29px;
+	}
+.ftr ul li strong{
+	}
+		
+.ftr input{
+	/*! border: 1px solid black; */
+	width: 54%;
+	font-size: 14px;
+	font-family: roboto regular;
+	font-weight: 400;
+	padding: 3px 8px;
+	margin-left: 34px;
+	}
+	
+.ftr button{
+	font-size: 14px;
+	font-family: roboto regular;
+	font-weight: 400;
+	background: #e26c00;
+	color: #ffff;
+	padding: 7px 18px;
+	border: none;
+	border-radius: 5px;
+	margin-left: 44px;
+	}							
+/*---------------------------------------------------------------*/
+
+
+.last-sec{ height:66px;
+           background:#e26c00;
+	}
+	
+.last{
+	}
+	
+.last p{
+	margin-top: 32px;
+	margin-left: 11px;
+	color: #ffffff;
+	}
+	
+.lasticn{
+	}
+	
+.lasticn nav{
+	}
+	
+.lasticn nav a{
+	}
+	
+.lasticn nav a img{
+	float: right;
+	margin-top: 20px;
+	margin-left: 5px;
+	}							
